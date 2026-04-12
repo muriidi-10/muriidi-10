@@ -1,15 +1,6 @@
 # 👨‍💻Software Developer
 
-<div style="display:flex; align-items:center; justify-content:space-between; gap:30px;">
-
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faysal-maxamed" alt="GitHub Streak" />
-  <!-- GIF Image -->
-  <img alt="Coder GIF" height="350" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif" />
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faysal-maxamed&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
+### MR MURIIDI MOHAMED
 
 ---
 ## 🚀 My Tech Stack
