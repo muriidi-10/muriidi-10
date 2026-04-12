@@ -1,6 +1,6 @@
-# 👨‍💻Software Developer
+# MR MURIIDI MOHAMED
 
-### MR MURIIDI MOHAMED
+### 👨‍💻Software Developer
 
 ---
 ## 🚀 My Tech Stack
