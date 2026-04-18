@@ -1,6 +1,6 @@
 # MR MURIIDI MOHAMED
 
-<div style="gap:30px;">
+<div style="gap:80px;">
 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriidi-10&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
