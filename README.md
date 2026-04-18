@@ -1,89 +1,55 @@
-<!-- 🔥 ASCII HEADER -->
-<pre align="center">
-  __  __ _____    __  __ _    _ _____  _____ _____ _____  _____ 
- |  \/  |  __ \  |  \/  | |  | |  __ \|_   _|_   _|  __ \|_   _|
- | \  / | |__) | | \  / | |  | | |__) | | |   | | | |  | | | |  
- | |\/| |  _  /  | |\/| | |  | |  _  /  | |   | | | |  | | | |  
- | |  | | | \ \  | |  | | |__| | | \ \ _| |_ _| |_| |__| |_| |_ 
- |_|  |_|_|  \_\ |_|  |_|\____/|_|  \_\_____|_____|_____/_____|
-</pre>
+# MR MURIIDI MOHAMED
 
----
+<div style="display:flex; align-items:center; justify-content:space-between; gap:30px;">
 
-<!-- 💚 GRADIENT HEADER -->
-<div align="center">
 
-<h1>
-  <span style="background: linear-gradient(90deg, #22c55e, #4ade80, #16a34a); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm muriidi
-  </span>
-</h1>
+  <!-- GitHub Streak -->
+  <!-- GIF Image -->
+  <img alt="Coder GIF" height="350" width="400" src="https://imarticus.org/blog/wp-content/uploads/2019/05/daonline.gif" />
 
-<h3 style="color:#4ade80;">🚀 Building Modern Web & Powerful APIs</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=muriidi+%F0%9F%92%9A;Web Builder+🌐;Backend+%26+API+Engineer+⚙️;Clean+Code+%2B+Beautiful+UI+✨" />
-
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muriidi-10&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
 ---
+## 🚀 My Tech Stack
 
-<!-- 🌿 ABOUT -->
-<div align="center">
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### 🌿 About muriidi
 
-✨ Crafting **modern mobile web** with Full stack
-🌐 Building **fast & scalable web ** using React & Node.js  
-⚙️ Developing **secure REST APIs** with Express & MongoDB  
-🎯 Focused on **performance, clean architecture & UI/UX**
 
-</div>
 
----
 
-<!-- 🌊 DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:16a34a&height=100&section=divider"/>
+### ⚡ Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-%2338b2ac.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn-000000?style=for-the-badge)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
----
 
-<!-- 📊 STATS -->
-<div align="center">
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=amixiid&show_icons=true&theme=tokyonight&hide_border=true&title_color=22c55e&icon_color=22c55e" height="160"/>
+### 💾 Databases 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amixiid&layout=compact&theme=tokyonight&hide_border=true&title_color=22c55e" height="160"/>
+### ⚙️ DevOps & Deployment
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
-
----
-
-<!-- 🛠️ TECH STACK -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,flutter,mysql&theme=dark" />
-
-</div>
 
 ---
 
-<!-- 🌐 CONNECT -->
-<h2 align="center">🌐 Connect With muriidi</h2>
 
-<div align="center">
 
-<a href="https://github.com/muriidi-10">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=22c55e"/>
-</a>
-
-</div>
-
----
-
-<!-- 🐍 SNAKE -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-
-</div>
