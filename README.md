@@ -21,7 +21,7 @@
 
 <h3 style="color:#4ade80;">🚀 Building Modern Web & Powerful APIs</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=amixiid+%F0%9F%92%9A;Mobile+App+Developer+📱;Web+Application+Builder+🌐;Backend+%26+API+Engineer+⚙️;Clean+Code+%2B+Beautiful+UI+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=muriidi+%F0%9F%92%9A;Web Builder+🌐;Backend+%26+API+Engineer+⚙️;Clean+Code+%2B+Beautiful+UI+✨" />
 
 </div>
 
